@@ -11,7 +11,7 @@ ARG GITHUB_USER="firepress-org"
 # REQUIRED BY OUR GITHUB ACTION CI
 ###################################
 ARG GIT_PROJECT_NAME="ghostfire"
-ARG DOCKERHUB_USER="devmtl"
+ARG DOCKERHUB_USER="valecloud"
 ARG GITHUB_ORG="firepress-org"
 ARG GITHUB_REGISTRY="registry"
 
